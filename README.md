@@ -2,11 +2,11 @@
 I have designed a dashboard by analyzing the Adidas US Sales Performance data to enhace greater understanding and visualization.
 ## Project Objective
 The primary objective of this project is to analyze and visualize the sales performance of Adidas in the United States. The dashboard provides insights into:
-1.Sales Trends: Monthly sales performance over time.
-2.Regional Performance: Sales distribution across different U.S. regions.
-3.Retailer Performance: Sales contributions by key retail partners.
-4.Sales Methods: Share of revenue across different sales channels (In-store, Online, Outlet).
-5.Product Segments: Performance of different product categories.
+1. Sales Trends: Monthly sales performance over time.
+2. Regional Performance: Sales distribution across different U.S. regions.
+3. Retailer Performance: Sales contributions by key retail partners.
+4. Sales Methods: Share of revenue across different sales channels (In-store, Online, Outlet).
+5. Product Segments: Performance of different product categories.
 
 ## Dataset Used
 <a href="https://github.com/Linu-1234/Adidas-US-Sales-Performance-Dashboard/blob/main/Adidas-Dashboard-START.xlsx">Data Set</a>
